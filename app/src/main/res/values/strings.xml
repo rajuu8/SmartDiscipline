@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Discipline</string>
+    <string name="device_admin_description">Control app usage during study sessions</string>
+    <string name="routine_active">Routine Active</string>
+    <string name="routine_inactive">No Active Routine</string>
+    <string name="study_time_blocked">Apps blocked during study time</string>
+    <string name="study_time_over">Study time ended</string>
+    <string name="enable_device_admin">Enable Device Admin to lock apps</string>
+    <string name="routine_saved">Routine saved successfully</string>
+    <string name="routine_deleted">Routine deleted</string>
+    <string name="no_routines">No routines yet. Create one to get started!</string>
+</resources>
